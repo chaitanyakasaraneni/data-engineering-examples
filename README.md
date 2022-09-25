@@ -1,2 +1,2 @@
-# data-engineering-examples
-A compiled list of data engineering examples
+# Data Engineering examples
+This repository contains a compiled list of data engineering examples
