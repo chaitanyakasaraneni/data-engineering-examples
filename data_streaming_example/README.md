@@ -1,6 +1,6 @@
 # Streaming Data Pipeline Example
 ## Intro to Streaming Data
-**Data streaming** is the process of transmitting a continuous flow of data (a.k.a. streams) typically fed into stream processing software to derive valuable insights.
+**Data streaming** is the process of transmitting a continuous flow of data (a.k.a. streams) typical fed into stream processing software to derive valuable insights.
 
 **Streaming data** is data that is generated continuously by thousands of data sources, which typically send in the data records simultaneously, and in small sizes (order of Kilobytes). 
 
