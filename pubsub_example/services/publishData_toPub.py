@@ -21,6 +21,7 @@ class Publish:
 
         json_string = json.dumps(string)
         print("string =",json_string)
+        print("hello")
 
         return str(json_string)
 
